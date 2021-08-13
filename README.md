@@ -7,8 +7,8 @@ The detailed results can be seen in the [A Deep Double-Channel Dense Network for
 The training and testing code can be seen in [Double-Branch-Dual-Attention-Mechanism-Network](https://github.com/lironui/Double-Branch-Dual-Attention-Mechanism-Network).
 
 If our code is helpful to you, please cite
-`Wang K., Zheng, S., Li, R. *, Gui L. A Deep Double-Channel Dense Network for Hyperspectral Image Classification. Journal of Geodesy and Geoinformation Science (JGGS).`
 
+`Wang K., Zheng, S., Li, R. *, Gui L. A Deep Double-Channel Dense Network for Hyperspectral Image Classification. Journal of Geodesy and Geoinformation Science (JGGS).`
 `Li R, Zheng S, Duan C, et al. Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network[J]. Remote Sensing, 2020, 12(3): 582.`
 
 
