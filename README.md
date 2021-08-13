@@ -1,6 +1,6 @@
 # Hyperspectral Image Classification
 
-This repository implementates the Deep Double-Channel Dense Network (DDCD) for hyperspectral image classification based on PyTorch and sklearn.
+This repository implementates the Deep Double-Channel Dense Network (DDCD) for hyperspectral image classification based on PyTorch.
 
 The detailed results can be seen in the [A Deep Double-Channel Dense Network for Hyperspectral Image Classification](None).
 
