@@ -1,6 +1,6 @@
 # Hyperspectral Image Classification
 
-⭐ Welcome to my [HomePage](https://lironui.github.io/) ⭐ 
+⭐ [Welcome to my HomePage](https://lironui.github.io/) ⭐ 
 
 This repository implementates the Deep Double-Channel Dense Network (DDCD) for hyperspectral image classification based on PyTorch.
 
