@@ -10,7 +10,7 @@ The training and testing code can be seen in [Double-Branch-Dual-Attention-Mecha
 
 If our code is helpful to you, please cite
 
-`Wang K, Zheng, S, Li, R, Gui L. A Deep Double-Channel Dense Network for Hyperspectral Image Classifica-tion[J]. Journal of Geodesy and Geoinformation Science, 2021, 4(4): 46-62.`
+`Wang K, Zheng, S, Li, R, Gui L. A Deep Double-Channel Dense Network for Hyperspectral Image Classification[J]. Journal of Geodesy and Geoinformation Science, 2021, 4(4): 46-62.`
 
 `Li R, Zheng S, Duan C, et al. Classification of Hyperspectral Image Based on Double-Branch Dual-Attention Mechanism Network[J]. Remote Sensing, 2020, 12(3): 582.`
 
